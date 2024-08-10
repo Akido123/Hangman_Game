@@ -1,0 +1,24 @@
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe.config
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.AssemblyReference.cache
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.Properties.Resources.resources
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.GenerateResource.cache
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.CoreCompileInputs.cache
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
+C:\Users\brown\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.Hangman_Visuals.resources
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe.config
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.AssemblyReference.cache
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.Hangman_Visuals.resources
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.Properties.Resources.resources
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.GenerateResource.cache
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.CoreCompileInputs.cache
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe.manifest
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.application
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe.manifest
+C:\Users\brown\OneDrive\Desktop\Beginner C#\Basic C# Programming Project Akeem Brown\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.application
